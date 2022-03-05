@@ -1,0 +1,12 @@
+{
+  "ecRtdLowerLimit": 0,
+  "ecRtdUpperLimit": 35,
+  "ecLowerLimit": 35,
+  "ecUpperLimit": 60,
+  "glssLowerLimit": 60,
+  "glssUpperLimit": 75,
+  "cpSumLowerLimit": 75,
+  "cpSumUpperLimit": 90,
+  "subCpLowerLimit": 90,
+  "subCpUpperLimit": 100
+}
