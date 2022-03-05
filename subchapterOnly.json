@@ -1,12 +1,12 @@
 {
-  "ecRtdLowerLimit": -1,
-  "ecRtdUpperLimit": -1,
-  "ecLowerLimit": -1,
-  "ecUpperLimit": -1,
-  "glssLowerLimit": -1,
-  "glssUpperLimit": -1,
-  "cpSumLowerLimit": -1,
-  "cpSumUpperLimit": -1,
+  "ecRtdLowerLimit": 88888,
+  "ecRtdUpperLimit": 88888,
+  "ecLowerLimit": 88888,
+  "ecUpperLimit": 88888,
+  "glssLowerLimit": 88888,
+  "glssUpperLimit": 88888,
+  "cpSumLowerLimit": 88888,
+  "cpSumUpperLimit": 88888,
   "subCpLowerLimit": 0,
   "subCpUpperLimit": 100
 }
