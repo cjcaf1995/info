@@ -1,6 +1,6 @@
 {
   "1sMin": 2,
-  "1sMax": 33,
+  "1sMax": 34,
   "2sMin": 2,
   "2sMax": 10,
   "3sMin": 2,
