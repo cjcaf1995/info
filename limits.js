@@ -1,6 +1,6 @@
 {
   "1sMin": 2,
-  "1sMax": 110,
+  "1sMax": 111,
   "2sMin": 2,
   "2sMax": 10,
   "3sMin": 2,
@@ -8,7 +8,7 @@
   "4sMin": 2,
   "4sMax": 17,
   "5sMin": 2,
-  "5sMax": 20,
+  "5sMax": 21,
   "glsMin": 2,
   "glsMax": 358,
   "subcpMin": 1,
