@@ -2,7 +2,7 @@
   "1sMin": 2,
   "1sMax": 246,
   "2sMin": 2,
-  "2sMax": 16,
+  "2sMax": 17,
   "3sMin": 2,
   "3sMax": 24,
   "4sMin": 2,
