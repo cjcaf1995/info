@@ -8,7 +8,7 @@
   "4sMin": 2,
   "4sMax": 32,
   "5sMin": 2,
-  "5sMax": 35,
+  "5sMax": 36,
   "glsMin": 2,
   "glsMax": 377,
   "subcpMin": 1,
