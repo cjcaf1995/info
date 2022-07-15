@@ -6,7 +6,7 @@
   "3sMin": 2,
   "3sMax": 70,
   "4sMin": 2,
-  "4sMax": 50,
+  "4sMax": 51,
   "5sMin": 2,
   "5sMax": 54,
   "glsMin": 2,
