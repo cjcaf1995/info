@@ -10,7 +10,7 @@
   "5sMin": 2,
   "5sMax": 55,
   "glsMin": 2,
-  "glsMax": 419,
+  "glsMax": 436,
   "subcpMin": 1,
   "subcpMax": 52,
   "chpSummMin": 1,
